@@ -27,6 +27,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CesarChiodi&layout=compact&langs_count=8&theme=tokyonight"/>
 <div>
 </details>
-
+![Snake animation](https://github.com/CesarChiodi/CesarChiodi/blob/output/github-contribution-grid-snake.svg)
 ---
 <img src="https://imgur.com/rilHVxA.png"/>
