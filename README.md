@@ -25,7 +25,7 @@
   <a href="https://github.com/CesarChiodi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CesarChiodi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CesarChiodi&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="287em" src="https://activity-graph.herokuapp.com/graph?username=CesarChiodi&theme=synthwave&bg_color=504e96&color=fff&line=fff&point=0891b2&area_color=e97989&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=CesarChiodi&theme=synthwave&bg_color=504e96&color=fff&line=fff&point=0891b2&area_color=e97989&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </p>
 </div>
 </details>
