@@ -24,9 +24,13 @@
   <a href="https://github.com/CesarChiodi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CesarChiodi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CesarChiodi&layout=compact&langs_count=8&theme=tokyonight"/>
-
+      
+### Visitor count:
+![Visitor Count](https://profile-counter.glitch.me/CesarChiodi/count.svg) 
 </div>
 </details>
-
+    
 ---
 <img src="https://imgur.com/rilHVxA.png"/>
+    
+---   
