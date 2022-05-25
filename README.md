@@ -2,10 +2,9 @@
 
 ✨Learning and Developing concepts about .NET
 
-**Languages and Tools:** ![Docker](https://img.shields.io/badge/-05122A?style=flat&logo=docker)<br>
-* `Main:`<br>
-    <div style="display: inline_block">
-  <img align="center" alt="Cesar-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+**Languages and Tools:**
+* `Main:`<br><div style="display: inline_block">
+<img align="center" alt="Cesar-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">    <img height="40" width="40" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     </div>
     
 * `Database:`<br><br>
