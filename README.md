@@ -5,12 +5,12 @@
 **Languages and Tools:** ![Docker](https://img.shields.io/badge/-05122A?style=flat&logo=docker)<br>
 * `Main:`<br>
     <div style="display: inline_block">
-  <img align="center" alt="Cesar-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Cesar-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     </div>
     
 * `Database:`<br><br>
-    <img height="26" title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-    <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-%2300f.svg?style=for-the-badge&logo=SQL Serverl&logoColor=white"/>
+    <img height="40" width="40" title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+    <img height="40" width="40" title="SQL Server" alt="SQL Server" src="https://img.icons8.com/color/480/microsoft-sql-server.png">
 
 * `Contact me:`<br>
   <div> 
