@@ -9,7 +9,7 @@
     </div>
     
 * `Database:`<br><br>
-    ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+    <img height="26" title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-%2300f.svg?style=for-the-badge&logo=SQL Serverl&logoColor=white"/>
 
 * `Contact me:`<br>
