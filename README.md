@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Welcome to my profile!</h1>
 
-✨Learning and Developing concepts about .NET
+✨Learning and Developing concepts about .NET | ASP.NET Core | C# | Docker | MongoDB | SQL | Kubernetes✨
 
 **Languages and Tools:**
 * `Main:`<br><div style="display: inline_block">
